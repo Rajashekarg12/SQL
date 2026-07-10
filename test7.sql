@@ -1,2 +1,2 @@
 
-select * from ts
+select * from  dual;
